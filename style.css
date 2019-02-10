@@ -1,0 +1,67 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+</style>
+/* css reset */
+*,
+*:before, 
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+font-family: 'Didact Gothic', sans-serif;
+color: black;
+font-size: 2em;
+background: #e6c6ff;
+margin-left: 20%;
+margin-right: 20%;
+}
+
+#images {
+  border-style: solid;
+  height: 200px;
+  width: 750px;
+  background-size: cover;
+  margin-top: 1em;
+  background-position: center;
+  margin-bottom: 1em;
+}
+
+#buttonBox {
+  text-align:center;
+}
+
+#input{
+  text-align:center;
+  font-family: 'Didact Gothic', sans-serif;
+  background-color: #f9fccf;
+  border: solid;
+  border-color: #b08ccc;
+  font-color: white;
+  font-size: 2em;
+  margin-left: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  shape-margin: 25px;
+  height: 2.5em;
+  font-size: 14px;
+}
+
+
+button{
+  font-family: 'Didact Gothic', sans-serif;
+  background-color: #f9fccf;
+  border: solid;
+  border-color: #b08ccc;
+  font-color: white;
+  font-size: 2em;
+  margin-left: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  shape-margin: 25px;
+  height: 2.5em;
+  font-size: 14px;
+}
